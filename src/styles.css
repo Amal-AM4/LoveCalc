@@ -145,4 +145,12 @@ app-root {
 
 .result-box {
   margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.result-box h3 {
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 28px;
 }

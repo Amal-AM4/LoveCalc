@@ -1,0 +1,17 @@
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #121212;
+  transition: all 0.4s;
+}
+
+p {
+  font-size: 14px;
+  color: #e0e0e0;
+}
